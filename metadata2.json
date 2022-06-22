@@ -1,0 +1,18 @@
+{
+  "key": 4,
+  "updateAuthority": "DRMyNjeNhs5wWexU3EKDDCE87FaxtBd7YNRmFqLYCbCj",
+  "mint": "6sgFR9xgG2A86hU1UzTs34TRdUTkethDvftPLmFb9tm2",
+  "data": {
+    "name": "PonyCoin Holland",
+    "symbol": "PCH",
+    "uri": "https://raw.githubusercontent.com/DvanHartevelt/coinPNGs/main/metadata.json"
+    "sellerFeeBasisPoints": 0,
+    "creators": null
+  },
+  "primarySaleHappened": 1,
+  "isMutable": 1,
+  "editionNonce": 255,
+  "tokenStandard": 2,
+  "collection": null,
+  "uses": null
+}
