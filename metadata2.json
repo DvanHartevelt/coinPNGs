@@ -5,7 +5,7 @@
   "data": {
     "name": "PonyCoin Holland",
     "symbol": "PCH",
-    "uri": "https://raw.githubusercontent.com/DvanHartevelt/coinPNGs/main/metadata.json"
+    "uri": "https://raw.githubusercontent.com/DvanHartevelt/coinPNGs/main/metadata.json",
     "sellerFeeBasisPoints": 0,
     "creators": null
   },
